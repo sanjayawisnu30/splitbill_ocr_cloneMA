@@ -147,10 +147,10 @@ def main_view() -> None:
 
 def controller():
     """Application main function."""
-    st.title("💵 Split Your Bill")
+    st.title("💵 Spill Bill Dong")
     author_col, settings_col = st.columns([5, 5])
     with author_col:
-        st.markdown("###### By: Mukhlas Adib")
+        st.markdown("###### By: Mukhlas Adib (Add Model extra model by Sanjaya Wisnu)")
     with settings_col, st.container(horizontal_alignment="right"):
         st.button(
             label="",

@@ -6,6 +6,20 @@ this repository is clone from https://github.com/MukhlasAdib/split-bill-app and 
 
 link for Mr. Manfred https://drive.google.com/drive/folders/1lW-FLpT3w_5yXf3FUJvCpSlM_rj_hzct?usp=sharing
 
+## Features
+
+With this application, you can upload a photo of your receipt. The AI will read the receipt and show you the data.
+
+![receipt-data-page](figs/data_page.png)
+
+Then, you can list participants of your split-bill, and then assign items from the receipt to each of them.
+
+![assign-page](figs/assign_page.jpg)
+
+When you are done, final report will be shown.
+
+![report-page](figs/result_page.jpg)
+
 ## Installation
 
 1. Make sure Python is installed (any recent version should be fine, I tested with Python 3.12)
