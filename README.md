@@ -14,11 +14,11 @@ With this application, you can upload a photo of your receipt. The AI will read 
 
 Then, you can list participants of your split-bill, and then assign items from the receipt to each of them.
 
-![assign-page](figs/assign_page.jpg)
+![assign-page](figs/assign_page.png)
 
 When you are done, final report will be shown.
 
-![report-page](figs/result_page.jpg)
+![report-page](figs/result_page.png)
 
 ## Installation
 
