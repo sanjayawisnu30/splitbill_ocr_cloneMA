@@ -4,7 +4,7 @@ This repository contains AI-based application for splitting-bill, written on pyt
 
 this repository is clone from https://github.com/MukhlasAdib/split-bill-app and giving upgrade with extra model to support OCR
 
-link for Mr. Manfred https://drive.google.com/drive/folders/1lW-FLpT3w_5yXf3FUJvCpSlM_rj_hzct?usp=sharing
+
 
 ## Features
 
@@ -71,3 +71,5 @@ When you are done, final report will be shown.
    ```bash
    streamlit run app.py
    ```
+
+link for Mr. Manfred https://drive.google.com/drive/folders/1lW-FLpT3w_5yXf3FUJvCpSlM_rj_hzct?usp=sharing
